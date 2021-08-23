@@ -5,7 +5,4 @@ pandas
 matplotlib
 praw
 jupyter
-json
-datetime
-requests
 IPython
