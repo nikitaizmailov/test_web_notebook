@@ -1,0 +1,12 @@
+numpy
+ipywidgets
+nbinteract
+pandas
+re
+matplotlib
+praw
+jupyter
+json
+datetime
+requests
+IPython
