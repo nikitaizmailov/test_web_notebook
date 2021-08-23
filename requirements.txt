@@ -2,7 +2,6 @@ numpy
 ipywidgets
 nbinteract
 pandas
-re
 matplotlib
 praw
 jupyter
